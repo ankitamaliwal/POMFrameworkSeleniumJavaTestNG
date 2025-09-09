@@ -32,7 +32,7 @@ public class AccountsPage {
 	
 	public List<String> getAccPageHeaders() {
 		List<WebElement> headersList = waitUtil.waitForElementsPresence(headers, AppConstants.DEFAULT_MEDIUM_WAIT);
-		System.out.println("total number of headers: " + headersList.size());
+		System.out.println("total number of headers updated 09-09-2025: " + headersList.size());
 		List<String> headersValueText = new ArrayList<>();
 		for(WebElement e: headersList) {
 			String text = e.getText();
