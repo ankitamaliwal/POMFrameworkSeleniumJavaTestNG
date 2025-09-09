@@ -1,7 +1,7 @@
 //New file to test git commands
 package com.qa.opencart.pages;
 
-public class TestingPage {
+public class TestGit2 {
 	
 	
 
