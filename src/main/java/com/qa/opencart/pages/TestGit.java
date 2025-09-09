@@ -7,6 +7,8 @@ public class TestGit {
 		int i = 10;
 		System.out.println("Testing GIT commands");
 
+		//New code after merging the PR for above change
+
 	}
 
 }
