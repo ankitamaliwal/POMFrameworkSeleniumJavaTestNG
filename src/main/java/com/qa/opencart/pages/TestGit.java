@@ -17,6 +17,7 @@ public class TestGit {
 		System.out.print("Lets try to see after this change if we can see a conflict - "
 		+ "change made in branch09-09-2025 from Working copy");
 
+		//More changes by someone else
 	}
 
 }
